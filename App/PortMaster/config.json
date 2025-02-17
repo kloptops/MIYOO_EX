@@ -1,0 +1,6 @@
+{
+  "label":"PortMaster",
+  "icon":"portmaster.png",
+  "launch": "/mnt/SDCARD/MIYOO_EX/PortMaster/PortMaster.sh",
+  "description": "PortMaster"
+}
